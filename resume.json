@@ -1,28 +1,24 @@
 {
+  "meta": {
+    "theme": "kendall"
+  },
   "basics": {
     "name": "Jeremy Hicks",
-    "label": "DevOps, Cloud, Security, Game Dev",
+    "label": "DevOps, Cloud, Security, Games",
     "picture": "https://s3.amazonaws.com/reysic.com/Jeremy%2BHicks_04cropped.jpg",
     "email": "jeremy@reysic.com",
-    "website": "http://richardhendricks.com",
-    "summary": "AWS-certified IT professional with a diverse background of education and experience, including security, game development, virtual and augmented reality, neuroscience, and cloud infrastructure.\n\nCharacterized by not just a willingness, but a drive to always be learning and improving.\n\nI enjoy both individual and team-based work, and I am not afraid to ask for or offer it to others. My primary areas of professional interest are DevOps and cloud infrastructure, but I am always open to new opportunities.",
+    "website": "https://reysic.com",
+    "summary": "AWS-certified IT professional with a diverse background of education and experience, including security, game development, VR/AR, neuroscience, and cloud infrastructure. Characterized by not just a willingness, but a drive to always be learning and improving. Primary areas of professional interest are DevOps and cloud infrastructure.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Austin",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "jeremy-hicks",
+        "url": "https://github.com/jeremy-hicks"
       }
     ]
   },
@@ -33,11 +29,11 @@
       "website": "http://hookbang.com/",
       "startDate": "2018-11-01",
       "endDate": "2019-09-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Cloud infrastructure codification via AWS CloudFormation and Ansible",
+        "Jenkins maintenance",
+        "Integration and deployment management, improvement, and monitoring",
+        "Application development and bug fixing in Node.js and Python, including front-end and back-end components"
       ]
     },
     {
@@ -46,88 +42,87 @@
       "website": "http://hookbang.com/",
       "startDate": "2018-11-01",
       "endDate": "2019-09-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Mobile AR game development with Unity",
+        "Automated software testing via UI and API",
+        "Serverless web app development using Python, AWS Lambda, and API Gateway",
+        "Cloud resource load testing"
       ]
     },
     {
       "company": "NetBoundary",
-      "position": "Software Engineer",
+      "position": "IT Security Analyst",
       "website": "https://www.1440security.com/",
       "startDate": "2014-09-01",
       "endDate": "2015-07-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Monitoring security appliances such as IDS/IPS, Log Management, and SIEMs",
+        "Researching and responding to security incidents",
+        "PCI compliance reporting"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "SMU Guildhall",
+      "area": "Specialization in Software Development",
+      "studyType": "Professional Certificate",
+      "startDate": "2015-08-01",
+      "endDate": "2017-05-01"
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "institution": "The University of Texas at Dallas",
+      "area": "Applied Cognition and Neuroscience",
+      "studyType": "Master of Science",
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-01"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "The University of Texas at Dallas",
+      "area": "Cognitive Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008-08-01",
+      "endDate": "2012-05-01"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Languages",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "C++",
+        "C#",
+        "Java",
+        "Python",
+        "JavaScript"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Tools",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Perforce",
+        "Git",
+        "Jenkins",
+        "AWS CLI/SDK",
+        "Terraform",
+        "Docker",
+        "Ansible",
+        "Unity",
+        "Unreal"
+      ]
+    },
+    {
+      "name": "Topics",
+      "keywords": [
+        "Infrastructure as Code",
+        "Application Architecture",
+        "Application Security",
+        "Game Programming",
+        "Augmented Reality",
+        "Automated Testing",
+        "Serverless Applications",
+        "Cognitive Science",
+        "CI/CD Pipelines",
+        "Machine Learning"
       ]
     }
   ],
@@ -135,21 +130,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
