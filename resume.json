@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Jeremy Hicks",
-    "label": "Programmer",
+    "label": "DevOps, Cloud, Security, Game Dev",
     "picture": "https://s3.amazonaws.com/reysic.com/Jeremy%2BHicks_04cropped.jpg",
     "email": "jeremy@reysic.com",
-    "phone": "(912) 555-4321",
     "website": "http://richardhendricks.com",
-    "summary": "AWS-certified IT professional with a diverse background of education and experience, including security, game development, virtual and augmented reality, neuroscience, and cloud infrastructure. Characterized by not just a willingness, but a drive to always be learning and improving. I enjoy both individual and team-based work, and I am not afraid to ask for or offer it to others. My primary areas of professional interest are DevOps and cloud infrastructure, but I am always open to new opportunities.",
+    "summary": "AWS-certified IT professional with a diverse background of education and experience, including security, game development, virtual and augmented reality, neuroscience, and cloud infrastructure.\n\nCharacterized by not just a willingness, but a drive to always be learning and improving.\n\nI enjoy both individual and team-based work, and I am not afraid to ask for or offer it to others. My primary areas of professional interest are DevOps and cloud infrastructure, but I am always open to new opportunities.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
