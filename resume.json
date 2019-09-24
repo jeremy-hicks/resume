@@ -5,7 +5,7 @@
   "basics": {
     "name": "Jeremy Hicks",
     "label": "DevOps, Cloud, Security, Games",
-    "picture": "https://s3.amazonaws.com/reysic.com/Jeremy%2BHicks_04cropped.jpg",
+    "picture": "https://github.com/jeremy-hicks/resume/blob/master/images/Jeremy%2BHicks_04cropped.jpg",
     "email": "reysic@pm.me",
     "website": "https://reysic.com",
     "summary": "AWS-certified IT professional with a diverse background of education and experience, including security, game development, VR/AR, neuroscience, and cloud infrastructure. Characterized by not just a willingness, but a drive to always be learning and improving. Primary areas of professional interest are DevOps and cloud infrastructure.",
@@ -23,6 +23,16 @@
     ]
   },
   "work": [
+    {
+      "company": "Sagent Lending Technologies",
+      "position": "Security Engineer IV",
+      "website": "https://sagentlending.com/",
+      "startDate": "2019-09-09",
+      "highlights": [
+        "Azure security posture monitoring and improvement",
+        "SecOps task automation via PowerShell"
+      ]
+    },
     {
       "company": "HookBang",
       "position": "Advanced Software Engineer",
