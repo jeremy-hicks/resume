@@ -4,11 +4,11 @@
   },
   "basics": {
     "name": "Jeremy Hicks",
-    "label": "DevSecOps, Cloud, Games",
+    "label": "Infrastructure, Security, Automation",
     "picture": "https://github.com/jeremy-hicks/resume/raw/master/images/Jeremy%2BHicks_04cropped.jpg",
     "email": "hello@reysic.com",
     "website": "https://reysic.com",
-    "summary": "AWS and Azure certified IT professional with a diverse background of education and experience, including security, game development, VR/AR, neuroscience, and cloud infrastructure. Characterized by not just a willingness, but a drive to always be learning and improving. Primary areas of professional interest are DevOps, SecOps, cloud infrastructure, and games.",
+    "summary": "AWS and Azure certified IT professional with a diverse background of education and experience, including network security, game development, VR/AR, and cloud infrastructure. Characterized by a drive to always be learning and improving. Primary areas of professional interest are cloud infrastructure, security, and automation.",
     "location": {
       "city": "Austin",
       "countryCode": "US",
@@ -29,8 +29,8 @@
       "website": "https://sagentlending.com/",
       "startDate": "2019-09-09",
       "highlights": [
-        "Azure security posture monitoring and improvement",
-        "SecOps task automation via PowerShell"
+        "Azure security posture analysis, monitoring, and improvement",
+        "Security task automation via PowerShell scripting and Azure Pipelines, including management of application identities and secrets"
       ]
     },
     {
